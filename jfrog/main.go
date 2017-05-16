@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/codegangsta/cli"
+	"github.com/urfave/cli"
 	"github.com/jfrogdev/jfrog-cli-go/artifactory"
 	"github.com/jfrogdev/jfrog-cli-go/bintray"
 	"github.com/jfrogdev/jfrog-cli-go/missioncontrol"
